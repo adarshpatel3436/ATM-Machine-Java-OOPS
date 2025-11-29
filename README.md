@@ -57,10 +57,10 @@ Enter your pin: 1234
 4. EXIT
 
 :- 3
-
  Enter the amount: 5000
 
  Money depositly Successful
 
- Enter your choice:
+Enter your choice:
 1. Check A/C Balance...
+Your Balance is 5000rs
